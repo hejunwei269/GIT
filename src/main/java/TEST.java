@@ -5,5 +5,6 @@ public class TEST {
         System.out.println("hot-fix commit2");
         System.out.println("github commit2");
         System.out.println("second commit2");
+        System.out.println("Gitee commit2");
     }
 }
