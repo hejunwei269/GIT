@@ -7,5 +7,6 @@ public class TEST {
         System.out.println("second commit2");
         System.out.println("Gitee commit2");
         System.out.println("Gitee2 commit2");
+        System.out.println("Gitee23 commit2");
     }
 }
