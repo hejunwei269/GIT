@@ -4,5 +4,6 @@ public class TEST {
         System.out.println("first commit2");
         System.out.println("hot-fix commit2");
         System.out.println("github commit2");
+        System.out.println("second commit2");
     }
 }
